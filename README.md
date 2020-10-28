@@ -9,7 +9,7 @@ This week, you are to prepare your teams and workspace:
 
 * Team Creates a Readme file describing the assignment and the breakdown of work to be completed in the final project(DONE)
 
-* Each team member will clone the repository to their computer.
+* Each team member will clone the repository to their computer.(DONE)
 
 * At least one commit will be required by each participant to receive credit for the final project
 
@@ -17,16 +17,16 @@ This week, you are to prepare your teams and workspace:
 
 The final project will require the following tasks:
 
-* Load data from csv files
+* Load data from csv files(RYAN)
 
-* Clean id column in system_access to match employee_number
+* Clean id column in system_access to match employee_number(RYAN)
 
-* Join data to one master data frame
+* Join data to one master data frame(RYAN)
 
-* Filter master data to identify missing access records
+    * Filter master data to identify missing access records(OWEN)
 
-* Create a subset of records that are missing values
+* Create a subset of records that are missing values(OWEN)
 
-* Use job title to fill in missing access records
+* Use job title to fill in missing access records(PATRICK)
 
-* Create a csv file with the updates needed to correct the records
+* Create a csv file with the updates needed to correct the records(PATRICK)
